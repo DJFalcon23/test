@@ -1,0 +1,29 @@
+body{text-align:center;}
+
+.article {
+    text-align: left;
+    margin-bottom: 70%;
+
+}
+header {background: black;color:white;}
+footer {background: #aaa;color:white;}
+
+.nav {background:#eee; text-align: center;}
+
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+.nav > ul > li {display:inline-block;}
+.nav ul a {
+text-decoration: none;
+}
+p{color: ;back}
+
+h1 {color: blue;}
+
+.blog{
+}
+
+#top-button{
+}
